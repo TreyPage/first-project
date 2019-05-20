@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="15">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -73,6 +73,11 @@
             <path>
               <item name="first-project" type="b2602c69:ProjectViewProjectNode" />
               <item name="first-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first-project" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="first-project" type="b2602c69:ProjectViewProjectNode" />
@@ -151,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558364969571</updated>
-      <workItem from="1558364973467" duration="3036000" />
+      <workItem from="1558364973467" duration="3277000" />
     </task>
     <task id="LOCAL-00001" summary="Deleted unneeded files">
       <created>1558371155546</created>
@@ -174,28 +179,34 @@
       <option name="project" value="LOCAL" />
       <updated>1558371708213</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Removed /out for .gitignore">
+      <created>1558371979930</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558371979930</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3036000" />
+    <option name="totallyTimeSpent" value="3277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="876" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" visible="true" weight="0.32908162" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32908162" />
       <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -250,7 +261,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Deleted unneeded files" />
     <MESSAGE value="added .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="added .gitignore" />
+    <MESSAGE value="Removed /out for .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed /out for .gitignore" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/edu/cnm/deepdive/DayOne.java">
@@ -266,8 +278,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
